@@ -13,7 +13,6 @@ int main() {
     sort(a.begin(), a.end(),
         [b](int i, int j) { return b[i] < b[j]; });
 
-    // Output: a = {1, 6, 4}
     for (auto x : a) {
         cout << x << " ";
     }
