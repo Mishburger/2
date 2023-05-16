@@ -1,6 +1,3 @@
-# 2
-#2
-
 #include <algorithm>
 #include <vector>
 #include <iostream>
